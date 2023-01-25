@@ -1,0 +1,15 @@
+D:\Project\lesen1\bin\Debug\net7.0\lesen1.exe
+D:\Project\lesen1\bin\Debug\net7.0\lesen1.deps.json
+D:\Project\lesen1\bin\Debug\net7.0\lesen1.runtimeconfig.json
+D:\Project\lesen1\bin\Debug\net7.0\lesen1.dll
+D:\Project\lesen1\bin\Debug\net7.0\lesen1.pdb
+D:\Project\lesen1\obj\Debug\net7.0\lesen1.csproj.AssemblyReference.cache
+D:\Project\lesen1\obj\Debug\net7.0\lesen1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\lesen1\obj\Debug\net7.0\lesen1.AssemblyInfoInputs.cache
+D:\Project\lesen1\obj\Debug\net7.0\lesen1.AssemblyInfo.cs
+D:\Project\lesen1\obj\Debug\net7.0\lesen1.csproj.CoreCompileInputs.cache
+D:\Project\lesen1\obj\Debug\net7.0\lesen1.dll
+D:\Project\lesen1\obj\Debug\net7.0\refint\lesen1.dll
+D:\Project\lesen1\obj\Debug\net7.0\lesen1.pdb
+D:\Project\lesen1\obj\Debug\net7.0\lesen1.genruntimeconfig.cache
+D:\Project\lesen1\obj\Debug\net7.0\ref\lesen1.dll
